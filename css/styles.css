@@ -7,8 +7,9 @@
 .contact-form {
   background: white;
   max-width: 500px;
-  font-family: sans-serif;
-  margin: -400px 400px 0px 800px;
+  font-family: 'open sans',sans-serif;
+  color: #ff6b6a;
+  margin: -450px 400px 0px 800px;
 }
 
 .label_input_wrap {
@@ -98,7 +99,7 @@ h2 {
   font-style: regular;
   text-align: center;
   margin: 0 auto;
-  padding: 10px;
+  padding-top: 80px;
 }
 
 .iframe-container{
