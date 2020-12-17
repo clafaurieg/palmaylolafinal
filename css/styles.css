@@ -93,13 +93,10 @@ h2:hover {
 
 h2 {
   position:relative;
-
-
+  margin: -10px 60px 40px 50px;
   font-weight: bold;
   font-style: regular;
   text-align: center;
-  margin: 0 auto;
-  padding-top: 80px;
 }
 
 .iframe-container{
