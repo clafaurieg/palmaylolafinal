@@ -165,6 +165,10 @@ p {
  border: 0px solid black;
 }
 
+.pinkflowerbag {
+  border: 0px solid black;
+  border-radius: 25px;
+}
 
 
 .coffeebeans:hover {
