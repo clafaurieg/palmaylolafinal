@@ -8,7 +8,7 @@
   background: white;
   max-width: 500px;
   font-family: sans-serif;
-  margin: 10px 350px 40px 500px;
+  margin: -400px 400px 0px 800px;
 }
 
 .label_input_wrap {
@@ -98,7 +98,7 @@ h2 {
   font-style: regular;
   text-align: center;
   margin: 0 auto;
-  padding: 0px;
+  padding: 10px;
 }
 
 .iframe-container{
@@ -150,13 +150,17 @@ p {
  border: 0px solid black;
 }
 
-.coffeecup{
+.pinkflowerbag {
  display: block;
  margin-left: auto;
- margin-right: auto;
- width: 40%;
- border: 2px solid black;
+ max-width: 500px;
+ margin-right: 0;
+ margin: 0px 100px 40px 150px;
+ padding: 0px;
+ width: 70%;
+ border: 0px solid black;
 }
+
 
 .coffeebeans {
  margin-left: 0px;
@@ -183,11 +187,14 @@ p::selection {
   color: white;
 }
 
+footer {
+  font-family: 'Amatic SC';
+}
 
 h3 {
-  color: tan;
+  color: #ec7063 ;
   font-weight: bold;
-  font-style: italic;
+  font-style: regular;
   text-align: center;
   font-family:'Open Sans', sans-serif;
   margin: 10px 30px 40px 50px;
