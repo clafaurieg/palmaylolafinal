@@ -34,7 +34,7 @@ l {
   list-style-type: none;
   margin: 20%;
   padding: 0;
-  colorL: black;
+  color: black;
 }
 
 .logo-container,
@@ -57,15 +57,12 @@ li {
 a {
   display: inline;
   padding: 10px;
-  background-color: none;
   color: black;
 }
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
   background-color: black;
-}
-
 }
 
 section {
@@ -77,8 +74,6 @@ section {
 
 h1 {
   font-family: 'Amatic SC';
-  ;font-weight: regular;
-  font-style: regular;
   color: black;
   text-align: center;
   padding: 30px;
@@ -103,7 +98,6 @@ h2 {
   position:relative;
   margin: -10px 60px 40px 50px;
   font-weight: bold;
-  font-style: regular;
   text-align: center;
 }
 
@@ -117,7 +111,7 @@ h2 {
 .iframe-container iframe{
   position: absolute;
   top:0;
-  left: 5%;
+  left: 7.5%;
   width: 90%;
   height: 90%;
   display: block;
@@ -155,7 +149,7 @@ p {
  display: block;
  margin-left: auto;
  margin-right: auto;
- padding: -10%;
+ padding: 0;
  width: 70%;
  border: 0px solid black;
 }
@@ -210,7 +204,6 @@ footer {
 
 h3 {
   color: #86c62e ;
-  font-weight: regular;
   font-style: italic;
   text-align: center;
   font-family:'Open Sans', sans-serif;
